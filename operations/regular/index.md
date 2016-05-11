@@ -1,6 +1,8 @@
-Reugular Activities
+[&laquo; Back to Operations](../index.md)
+
+Regular Activities
 ===================
 
-Details coming soon!
-
 1. [Handbook Management](handbook/index.md)
+
+More coming soon!

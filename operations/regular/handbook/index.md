@@ -1,3 +1,5 @@
+[&laquo; Back to Regular Operations index](../index.md)
+
 Handbook Management
 ===================
 
