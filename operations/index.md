@@ -13,3 +13,4 @@ Specialized Activities
 ----------------------
 
 Activities more related to specific persons or roles. More details coming soon.
+[Learn more &raquo;](specialized/index.md)

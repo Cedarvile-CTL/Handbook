@@ -16,7 +16,7 @@ The following are full-time positions in the CTL and the current persons holding
 * Senior Instructional Media Producer - Dara Fraley
 
 Part Time, Contracted, &amp; Student Positions
-------------------------------------
+----------------------------------------------
 * Course Production Assistant (Student)
   * Full-time summer intern - Ben Modayil
   * Part-time school year position - Rebekah Brewer
@@ -24,7 +24,7 @@ Part Time, Contracted, &amp; Student Positions
 * Content Editor (Contracted) - *Open*
 
 Other Office Responsibilities
------------------------
+-----------------------------
 * Default student worker supervisor - *TBD*
-* Coordinator for birthday and work anniversary celebrations - Kayleigh Rich (Aubrey Casazza for Kayleigh's)
+* Coordinator for birthday and work anniversary celebrations - Kayleigh Rich (Aubrey Casazza takes responsibility for Kayleigh's)
 * Podio and overall knowledge sharing practices - Phil Schanely
