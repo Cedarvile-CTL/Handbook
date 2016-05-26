@@ -21,25 +21,16 @@ Design Patterns and Precedents
 
 See [resolutions for related issues](issues.md)
 
-### Quiz Design Patterns
+### Grading/Scoring Methods
 
-More coming soon.
+* We suggest the "grading guide" approach for evaluating student work when practical.
+  * Criterion spell out aspects of the submission that will be scored.
+  * Points possible indicate the total points that can be awarded but allow the grader to award fractions of that total
+    based on their evaluation of the student's work on that criterion.
+* We suggest that grading scales be either 10- or 100-points.
+  We believe scores on such scales are most easy for students to understand since they relate to a traditional letter grade scale.
 
-### Exam Design Patterns
-
-More coming soon.
-
-### Worksheet Design Patterns
-
-More coming soon.
-
-### Discussion Design Patterns
-
-More coming soon.
-
-### Paper/Essay Design Patterns
-
-More coming soon.
+*TODO:* A guide for creating grading criterion and scoring systems should accompany this section.
 
 ### Quiz Design Patterns
 

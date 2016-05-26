@@ -14,9 +14,8 @@ The last known direction was:
 * To run undergraduate courses during fall and spring semester on a 14-content-week schedule.
   This allows for 14 complete weeks of instruction,
     the "soft start" introduction week during the first partial week of the term,
-    and flexibile to observe one or more full break weeks.
-
-
+    and the flexibility to observe one or more full break weeks.
+* This revision was tentative to be kicked off in the Fall of 2016 and progressively rolled out for each term thereafter.
 
 Weekly Schedule Issues
 ----------------------
