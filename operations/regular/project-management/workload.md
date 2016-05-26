@@ -3,8 +3,9 @@
 Workload Planning and Tracking
 =====
 
-Podio allows a base for us to track what needs to be done and when, but we have extended it to also allow us to plan our workload.
-But these plans and our actual records work hand-in hand.
+Podio allows a base for us to track what needs to be done and when,
+  but we have extended it to also allow us to plan our workload.
+These plans and our actual records work hand-in hand.
 
 
 Tracking with Podio Containers and Work Order Apps
@@ -12,7 +13,8 @@ Tracking with Podio Containers and Work Order Apps
 
 Most of our Podio "apps" (see the section on [knowledge management]()) can be categorized either container apps or work order apps.
 (The rest could be consider strictly data apps.)
-* *Container apps* are those that establish larger, ongoing projects. They provide a label and description for organizing more details through the Work Order apps.
+* *Container apps* are those that establish larger, ongoing projects.
+  They provide a label and description for organizing more details through the Work Order apps.
 * *Work order apps* are where the actual work occurs as these track more modular chunks of individual staff members' workload.
   They contain the following fields:
   * Name
@@ -67,7 +69,8 @@ Therefore, Eagle's color-coding displays an 80%-loaded workday as "green" to ind
 
 ### Approach to Workload Planning
 
-Since Eagle provides a live view of work that is happening and planned work, employees can easily get a sense of what is on their plate.
+Since Eagle provides a live view of both work that is happening and of planned work
+  employees can easily get a sense of what is on their plate.
 We can also use it to forecast future work in order to avoid both slumps and overtime.
 
 * Grey and purple bars for an employee in the Workload Gantt view indicate there is little work planned that day.
@@ -90,6 +93,10 @@ Common Practices
 Coming soon.
 
 ### Entering Timelogs
+
+Coming soon.
+
+### Adjusting Estimated Time or Deadlines
 
 Coming soon.
 

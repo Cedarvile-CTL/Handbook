@@ -37,11 +37,33 @@ Support Work
 Project Work
 -----
 
+We distinguish primarily between Course projects, Change/Update projects and Other projects.
+* Course projects are those larger projects that relate directly to work on a specific course
+    and have a deadline associated with the launch of a particular term.
+  We further categorize these as:
+  * Pilots -
+    These are brand new builds of a course in a particular modality, or at least, the first time we've built a course.
+  * Redesigns -
+    These occur when we rebuild a course that we had built in the past.
+    Redesigns involve either a brand new SME who is starting from the ground up,
+      or with an existing SME who intends to keep very little of the previous version of the course.
+  * Updates -
+    These are large updates to an existing course that don't constitute a full redesign.
+* Course change requests are smaller updates to courses that represent incremental improvements
+    and are requested before particular offerings of a given course.
+* Other projects can be either more broad that course projects, or more narrow.
+  For example, one such project could be for planning the launch of a new online program (more broad).
+  Another could be a small instructional technology research project for a particular need in an onground coure (more narrow).
+  They can also be unrelated to courses altogether, such as a department research project, or work assisting a professor with scholarly activities.
+
+Inside of these categories, we have the capacity to complete a wide variety of professional work including content development, instructional media, graphic/web design, and even build custom web applications.
+
 ### Content Development
 
 With several staff members possessing strong abilities for proofreading, editing, and several forms of writing, we often aim to assist in developing quality content.
 This can be simply taking the time to proof content we receive for online courses rather than just implementing them.
-It can also be as complex as assisting a professor with writing a textbook. More about these services can be found in the corresponding speicalized services sections.
+It can also be as complex as assisting a professor with writing a textbook.
+More about these services can be found in the corresponding speicalized services sections.
 
 ### Instructional Media
 
