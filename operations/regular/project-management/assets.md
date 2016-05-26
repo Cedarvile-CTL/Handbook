@@ -33,6 +33,7 @@ Project folders must be carefully named with at least two components: the projec
     This is always the department code in all-caps, a hyphen, and the 4-digit course number. `BTGE-2730` or `VCD-2600`
   * Project scope -
     Based on the definitions provided here, the second part of the name should indicate whether the project is a `Pilot`, `Update`, or `Redesign`.
+    `U-` courses may omit this element since the smaller "update" context is assumed.
   * Release term -
     The four-digit year followed immediately by the two- or three-digit semester code. `2016SU1` or `2017SP`
   * Primary SME last name -
