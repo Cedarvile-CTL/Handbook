@@ -30,7 +30,7 @@ Support Work
     But the CTL is the first point of contact for most matters related to faculty use of the system.
   * *Instructional technologies support* -
     The Instructional Technologist also acts as the point person for support for other technologies used in ongroung and online instruction.
-    See our [vision for future services](../../vision.md) for more about what we hope to do in this space in the future.
+    See our [vision for future services](../../../vision.md) for more about what we hope to do in this space in the future.
     This category of support is often a venue to take on new projects.
 
 

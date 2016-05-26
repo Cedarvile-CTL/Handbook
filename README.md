@@ -16,4 +16,5 @@ Table of Contents
 1. [About the CTL](about.md)
 2. [Roles and Responsibilities](roles-resp/index.md)
 3. [Operational Policies and Procedures](operations/index.md)
-4. [Archives](archives.md)
+4. [Vision and Ideas for Future Development](vision.md)
+5. [Archives](archives.md)
