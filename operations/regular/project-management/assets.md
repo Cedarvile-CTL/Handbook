@@ -23,7 +23,9 @@ Project folders must be carefully named with at least two components: the projec
 
 * Project id -
   Podio establishes a unique ID number for each course project and other project.
-  This number is used along with a prefix of either `C-` or `O-` for course or other projects, respectively.
+  This number is used along with a prefix of `C-` for full course projects,
+    `U-` for smaller updates/course change requestions,
+    or `O-` for course or other projects, respectively.
 * Project name -
   Other projects simply include the same name as is set up in Podio.
   Course projects and updates require more precision and subdivide this name into up to four parts:
