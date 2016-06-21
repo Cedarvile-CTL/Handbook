@@ -28,3 +28,4 @@ Other Office Responsibilities
 * Default student worker supervisor - *TBD*
 * Coordinator for birthday and work anniversary celebrations - Kayleigh Rich (Aubrey Casazza takes responsibility for Kayleigh's)
 * Podio and overall knowledge sharing practices - Phil Schanely
+* Ordering office supplies (notebooks, pens, tissues, concessions, etc.) - Dara Fraley
