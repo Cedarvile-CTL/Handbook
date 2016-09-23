@@ -1,10 +1,11 @@
+[&laquo; Back to Regular Operations index](../index.md)
+
 Style Guides
 =====
 
-Details coming soon.
+Details coming soon for each of the following:
 
-1. Writing style
-2. Brand and visual style
-3. Organizing conventions
-4. HTML Markup style
-5. Coding conventions
+1. Writing style *(KR & LE)*
+2. Brand and visual style *(AC)*
+3. Organizing conventions *(RM)*
+4. HTML Markup and other coding conventions *(PS)*

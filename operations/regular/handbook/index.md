@@ -9,7 +9,6 @@ Using version control allows us to see line-by-line changes to any portion of ou
 
 However, in order to ensure things stay neat and clean, the following guidlines should be followed:
 
-* Edit handbook files directly in Github unless you understand how to use more localized version controls.
 * Learn how to use the online commit features in Github before editing a document
     and consider also learning to use SourceTree and local text editors such as WebStorm to manage content well.
 * Use simple, neat markdown based on guides such as [this one](https://guides.github.com/features/mastering-markdown/).
